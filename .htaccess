@@ -1,0 +1,11 @@
+# Aktifkan Rewrite Engine
+RewriteEngine On
+
+# Jangan terapkan rewrite jika permintaan adalah untuk file yang ada
+RewriteCond %{REQUEST_FILENAME} !-f
+
+# Jangan terapkan rewrite jika permintaan adalah untuk direktori yang ada
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Arahkan semua permintaan ke index.php, dan kirimkan URL yang diminta sebagai parameter 'url'
+RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
