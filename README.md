@@ -31,10 +31,6 @@ Dilengkapi proteksi sandi untuk pengelolaan konten:
 - PHP QR Code / Library lain (opsional sesuai kebutuhan)
 
 ---
-## 📷 Screenshot
-
-### Halaman Beranda
-![Halaman Beranda](assets/images/ss/screencapture-localhost-pondok-subusalam-home-2025-08-12-01_00_55.png)
 
 ## 📷 Screenshot
 
