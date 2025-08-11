@@ -35,7 +35,7 @@ Dilengkapi proteksi sandi untuk pengelolaan konten:
 ## 📷 Screenshot
 
 ### Halaman Beranda
-![Halaman Beranda](assets/images/ss/screencapture-localhost-pondok-subulussalam-home-2025-08-12-01_00_55.png)
+![Halaman Beranda](assets/images/ss/screencapture-localhost-pondok-subusalam-home-2025-08-12-01_00_55.png)
 
 ### Halaman Login
 ![Halaman Login](assets/images/ss/login.png)
